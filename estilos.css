@@ -1,0 +1,104 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    color:black;
+    background-color:beige;
+}
+#titulo{
+    font-size: 3.5em;
+    font-weight: bold;
+    color: black;
+}
+.texto{
+    font-size: 1em;
+    font-weight: bold;
+    color:black;
+}
+#titulouno{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #000;
+}
+#titulodos{
+    font-size: 2em;
+    font-weight: bold;
+    color:black;
+}
+
+.textodos{
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+}
+
+.textotres{
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+}
+.textocuatro{
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+}
+
+.textocinco{
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+}
+.img{
+    height: 340px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    
+}
+header{
+    background-color: #364552;
+    color: white;
+    padding: 1rem 0rem;
+}
+
+header h1{
+    font-size: 3rem;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #364552;
+}
+li{
+    float: left;
+    
+}
+
+li a{
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+
+}
+li:hover{
+    background-color:rgba(0,0,0,0.5);
+    
+}
+.active{
+    background-color: #A182B1;
+}

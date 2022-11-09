@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    color: black;
+    background-color: beige;
+}
